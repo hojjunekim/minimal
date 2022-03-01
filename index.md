@@ -2,6 +2,14 @@
 layout: default
 ---
 
+I am an undergraduate student at **Seoul National University**, studying **Aerospace Engineering**.
+
+My research area is Robotics, where I mainly focus on localizing and mapping on robots.~~These works have been presented at major venues such as CHI, CSCW, and JMIR, recognized with CHI Honorable Mention Award.~~
+
+I enjoy street dance, especially [Locking](https://www.youtube.com/watch?v=CroeSYalTPg), to give myself a justifiable reason for procrastination.(./another-page.html).
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -10,18 +18,28 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Research area
+My research focuses on designing and evaluating social computing systems that support real-world collaborative processes by harnessing machine intelligence
+
+Specifically, my research aims to (i) surface challenges of collaborations arising in the multi-faceted user group and (ii) build AI-infused systems to support them
+
+I like mixed-methods approach
+
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Education
+
+## Experiences
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Projects
 
+
+### Header 3
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
